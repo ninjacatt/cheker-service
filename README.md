@@ -15,3 +15,4 @@ To run:
 $ ./gradlew bootRun
 ```
 
+To test:
